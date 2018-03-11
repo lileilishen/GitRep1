@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick AND simple.
 Add merge to master.
 add merger to dev.
+Reset to test merge
