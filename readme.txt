@@ -7,4 +7,5 @@ Add merge to master.
 add merger to dev.
 Reset to test merge.
 Master after merge.
+Dev after merge.
 
